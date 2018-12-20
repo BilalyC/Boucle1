@@ -16,6 +16,14 @@ namespace Exo1
                 Console.WriteLine("Bonjour, je ne suis qu'un simple message.");
                 counter++; //incrémentation de la boucle
             }
+            /*
+            do
+            {
+                Console.WriteLine("Bonjour, je ne suis qu'un simple message.");
+                counter++;
+            }
+            while (counter < 10);
+            */
         }
     }
 }
